@@ -108,6 +108,11 @@
     #page-teacher-form .page-header .header-content {
         margin-bottom: 0;
     }
+    #page-teacher-form main fieldset legend {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
     #page-teacher-form main fieldset {
         padding: 0 6.4rem;
     }
